@@ -5,8 +5,13 @@ description: These lecture notes were transcribed by Yanni Loukissas, a student 
   collected for the course Web site.  The course Web site, where these notes were
   originally compiled, was designed and maintained by the Teaching Assistant of the
   course, Leonardo Diaz Borioli.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-638-drawings-numbers-five-centuries-of-digital-design-fall-2002/2e1a74958d71a5dadf10e704dff4f881_lecture_2.pdf
+file: /media/courses/4-638-drawings-numbers-five-centuries-of-digital-design-fall-2002/2e1a74958d71a5dadf10e704dff4f881_lecture_2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 2: The Primacy of the Word: Vitruvius and the mystery of his missing
   images'

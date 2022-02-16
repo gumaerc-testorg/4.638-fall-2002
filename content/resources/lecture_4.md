@@ -5,8 +5,13 @@ description: These lecture notes were transcribed by Kyle Steinfeld, a student i
   collected for the course Web site.  The course Web site, where these notes were
   originally compiled, was designed and maintained by the Teaching Assistant of the
   course, Leonardo Diaz Borioli.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-638-drawings-numbers-five-centuries-of-digital-design-fall-2002/8c3073aa555fb5b5154e2d4fb29dbeff_lecture_4.pdf
+file: /media/courses/4-638-drawings-numbers-five-centuries-of-digital-design-fall-2002/8c3073aa555fb5b5154e2d4fb29dbeff_lecture_4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 4: Alberti''s improbable image-making technologies'
 uid: 8c3073aa-555f-b5b5-154e-2d4fb29dbeff

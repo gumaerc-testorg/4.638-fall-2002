@@ -5,8 +5,13 @@ description: These lecture notes were transcribed by Yanni Loukissas, a student 
   collected for the course Web site.  The course Web site, where these notes were
   originally compiled, was designed and maintained by the Teaching Assistant of the
   course, Leonardo Diaz Borioli.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-638-drawings-numbers-five-centuries-of-digital-design-fall-2002/2413f965fcec2be06febc16d48f69a52_lecture_6.pdf
+file: /media/courses/4-638-drawings-numbers-five-centuries-of-digital-design-fall-2002/2413f965fcec2be06febc16d48f69a52_lecture_6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 6: Image-Making Technologies, Architecture, and Identical Replication'
 uid: 2413f965-fcec-2be0-6feb-c16d48f69a52
