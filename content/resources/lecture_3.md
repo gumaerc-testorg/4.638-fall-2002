@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: df63b8d7-3fad-cc76-2f8d-de6a3094c994
 resourcetype: Document
 title: 'Lecture 3: Alberti and the (untrustworthy) power of man-made images'
 uid: fc4d669b-d899-dd1d-60f5-349560e8e90c

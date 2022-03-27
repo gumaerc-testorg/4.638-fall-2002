@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: df63b8d7-3fad-cc76-2f8d-de6a3094c994
 resourcetype: Document
 title: 'Lecture 6: Image-Making Technologies, Architecture, and Identical Replication'
 uid: 2413f965-fcec-2be0-6feb-c16d48f69a52

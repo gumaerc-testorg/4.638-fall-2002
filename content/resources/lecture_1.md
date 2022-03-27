@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: df63b8d7-3fad-cc76-2f8d-de6a3094c994
 resourcetype: Document
 title: 'Lecture 1: Introduction: Drawings, numbers, and the power of (printed) images'
 uid: 4871d78e-57a7-f717-194e-321063e7f8f6
