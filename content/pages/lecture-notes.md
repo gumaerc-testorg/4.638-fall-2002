@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides lecture notes by the Teaching Assistant of the
+  course, Leonardo Diaz Borioli.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +29,7 @@ TOPICS
 1-2
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 1: Introduction: Drawings, Numbers, and the Power of (Printed) Images ([PDF]({{< baseurl >}}/resources/lecture_1))
+Lecture 1: Introduction: Drawings, Numbers, and the Power of (Printed) Images ({{% resource_link 4871d78e-57a7-f717-194e-321063e7f8f6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +38,7 @@ Lecture 1: Introduction: Drawings, Numbers, and the Power of (Printed) Images ([
 3-4
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 2: The Primacy of the Word: Vitruvius and the Mystery of his Missing Images ([PDF]({{< baseurl >}}/resources/lecture_2))
+Lecture 2: The Primacy of the Word: Vitruvius and the Mystery of his Missing Images ({{% resource_link 2e1a7495-8d71-a5da-df10-e704dff4f881 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ Lecture 2: The Primacy of the Word: Vitruvius and the Mystery of his Missing Ima
 5-6
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 3: Alberti and the (Untrustworthy) Power of Man-made Images ([PDF]({{< baseurl >}}/resources/lecture_3))
+Lecture 3: Alberti and the (Untrustworthy) Power of Man-made Images ({{% resource_link fc4d669b-d899-dd1d-60f5-349560e8e90c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +56,7 @@ Lecture 3: Alberti and the (Untrustworthy) Power of Man-made Images ([PDF]({{< b
 7-8
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 4: Alberti's Improbable Image-making Technologies ([PDF]({{< baseurl >}}/resources/lecture_4))
+Lecture 4: Alberti's Improbable Image-making Technologies ({{% resource_link 8c3073aa-555f-b5b5-154e-2d4fb29dbeff "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +76,7 @@ Discussion of Final Presentation Topics
 11-12
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 6: Image-making Technologies, Architecture, and Identical Replication ([PDF]({{< baseurl >}}/resources/lecture_6))
+Lecture 6: Image-making Technologies, Architecture, and Identical Replication ({{% resource_link 2413f965-fcec-2be0-6feb-c16d48f69a52 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +85,7 @@ Lecture 6: Image-making Technologies, Architecture, and Identical Replication ([
 13-14
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 7: On Some Semi-automatic Machines for the Drawing of the Architectural Orders Oddly Invented in the Seventeenth Century ([PDF]({{< baseurl >}}/resources/lecture_7))
+Lecture 7: On Some Semi-automatic Machines for the Drawing of the Architectural Orders Oddly Invented in the Seventeenth Century ({{% resource_link 896d8baf-f425-dc38-560f-ed97cb62654f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +94,7 @@ Lecture 7: On Some Semi-automatic Machines for the Drawing of the Architectural 
 15-16
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 8: Final Lecture ([PDF]({{< baseurl >}}/resources/lecture_8))  
+Lecture 8: Final Lecture ({{% resource_link 90dcb1f2-00e1-58ec-1760-c915fc760ceb "PDF" %}})  
   
 Final Presentations
 {{< tdclose >}}

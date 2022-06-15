@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section features a preface and disclaimer from the Instructor.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Disclaimer
