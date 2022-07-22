@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section features a preface and disclaimer from the Instructor.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Disclaimer
 uid: 1864e8a5-06c4-55e1-7cb9-93915b8161d6
 ---
