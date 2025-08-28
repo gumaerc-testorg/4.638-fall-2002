@@ -5,7 +5,7 @@ description: These lecture notes were transcribed by Yanni Loukissas, a student 
   collected for the course Web site.  The course Web site, where these notes were
   originally compiled, was designed and maintained by the Teaching Assistant of the
   course, Leonardo Diaz Borioli.
-file: /courses/4-638-drawings-numbers-five-centuries-of-digital-design-fall-2002/90dcb1f200e158ec1760c915fc760ceb_lecture_8.pdf
+file: /ol-ocw-studio-app/courses/4-638-drawings-numbers-five-centuries-of-digital-design-fall-2002/90dcb1f200e158ec1760c915fc760ceb_lecture_8.pdf
 file_size: 16495
 file_type: application/pdf
 learning_resource_types:
