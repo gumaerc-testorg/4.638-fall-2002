@@ -15,7 +15,7 @@ Alberti, Leon Battista. "Cahiers d'Humanisme et Renaissance." In _Descriptio Urb
 
 Benjamin, Walter. _L'oeuvre d'art à l'époque de sa reproduction mécanisée_, 1936. Reprinted in _Écrits français_. Edited by J - M Monnoyer. Paris: Gallimard, 1991, pp. 117-192. "The Work of Art in the Age of Mechnical Reproduction." In _Illuminations: Essays and Reflections_. Translated by Harry Zohn. Edited by Hannah Arendt. New York: Schocken Books, 1968. ISBN: 0805202412.
 
-{{% resource_link "340dad57-c7e6-4d85-9646-781931b760f4" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Carpo, Mario. {{% resource_link "340dad57-c7e6-4d85-9646-781931b760f4" "Architecture in the Age of Printing: Orality, Writing, Typography, and Printed Images in the History of Architectural Theory" %}}. Cambridge, MA, and London, England: The MIT Press, 2001. ISBN: 0262032880.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/architecture-age-printing) Carpo, Mario. [Architecture in the Age of Printing: Orality, Writing, Typography, and Printed Images in the History of Architectural Theory](https://mitpress.mit.edu/books/architecture-age-printing). Cambridge, MA, and London, England: The MIT Press, 2001. ISBN: 0262032880.
 
 ———. "How do You Imitate a Building That You Have Never Seen? Printed Images, Ancient Models, and Handmade Drawings in Renaissance Architectural Theory." _Zeitschrift für Kunstgeschichte_ 64, no. 2 (2001): 223-234.
 
